@@ -493,7 +493,8 @@ You can:
 
 ## 📸 Screenshots
 
-![Dashboard Screenshot](OutPut1.png)
+<img width="1886" height="911" alt="Screenshot 2026-01-03 170701" src="https://github.com/user-attachments/assets/5d462a0b-222d-4557-984a-2710cb6a6142" />
+
 
 *Farm Monitoring Dashboard - Real-time animal detection and alerts*
 
